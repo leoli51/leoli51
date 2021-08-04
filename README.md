@@ -1,5 +1,8 @@
 ### Hi there 👋
+I am currently finishing my bachelor in Computer Science at Sapienza University of Rome.  
 
+ 
+Happy coding! 
 <!--
 **leoli51/leoli51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
