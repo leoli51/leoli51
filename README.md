@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am currently finishing my bachelor in Computer Science at Sapienza University of Rome.<br>
-I'm currently learning about NLP for my thesis work.<br>
+Right now I'm learning about NLP for my thesis work.<br>
 
-I'm very curious and love when informatics meets the audiovisual realm. Especially when creative minds use code to produce an artistic outcome or to visualize data or reality in a new way. If you like it aswell you should have a look at these:
+I'm very curious and love when informatics meets the audiovisual realm. Especially when creative minds use code to produce an artistic outcome or to visualize data or reality in a new way. If you like it as well you should have a look at these:
   * [Codeparade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
   * [Carykh](https://www.youtube.com/watch?v=nA3YOFUCn4U)
  
