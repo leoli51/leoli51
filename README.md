@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently doing a Master in Computer Science and Artificial Intelligence at Polimi and working as a Backend Software Engineer at Bending Spoons.<br>
+I am currently doing a Master in Computer Science and Artificial Intelligence at Polimi.<br>
 
 I'm very curious and love when informatics meets the audiovisual realm. Especially when creative minds use code to produce an artistic outcome or to visualize data or reality in a new way. If you like it as well you should have a look at these:
   * [Codeparade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw)
